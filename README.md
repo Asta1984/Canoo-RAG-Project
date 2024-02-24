@@ -1,2 +1,2 @@
 # Canoo-RAG-Project
-This is projecct involving Implementation of RAG with OPENAI embedding to extract(scarp) data from open internet and create a vector database to personalize GPT based research.
+This project involves the Implementation of RAG(Retrieval Argumentive Generation) with OPENAI embedding to extract(scarp) data from the open internet and create a vector database to personalize GPT-based research.
